@@ -49,6 +49,8 @@ Library: lib_burst_generated
 --compilation-defines=ENABLE_UNITYEVENTS
 --compilation-defines=ENABLE_VR
 --compilation-defines=ENABLE_WEBCAM
+--compilation-defines=ENABLE_WEBCAM
+
 --compilation-defines=ENABLE_UNITYWEBREQUEST
 --compilation-defines=ENABLE_WWW
 --compilation-defines=ENABLE_CLOUD_SERVICES
